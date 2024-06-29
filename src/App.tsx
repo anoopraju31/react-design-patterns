@@ -1,9 +1,10 @@
 import type { FC } from 'react'
+import PostContainer from './single-responsibility-principle/PostContainer'
 
 const App: FC = () => {
 	return (
 		<div>
-			<h1 className='text-3xl font-bold underline'>Hello world!</h1>
+			<PostContainer />
 		</div>
 	)
 }
