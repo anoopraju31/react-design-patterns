@@ -5,3 +5,4 @@ React design patterns are common solutions and best practices for handling typic
 1. [**Single Responsibility Principle**](/src/single-responsibility-principle/)
 2. [**Compound Component**](/src/compound-component/)
 
+3. testing
